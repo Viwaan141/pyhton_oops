@@ -10,4 +10,4 @@ class Employee: #class define
 
 employeeOne = Employee() #object instance
 print(employeeOne.name) #invoked(called) class attribute
-print(employeeOne.hasAchievedtarget())
+employeeOne.hasAchievedtarget()
